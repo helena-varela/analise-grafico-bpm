@@ -1,4 +1,4 @@
-# Simulador de Batimentos Cardíacos (BPM)
+# Simulador de Gráficos de Batimentos Cardíacos (BPM)
 
 Este projeto simula uma sequência de valores de batimentos cardíacos por minuto (BPM) durante uma semana, gera um gráfico para visualização dos dados e fornece um pequeno relatório estatístico.
 
